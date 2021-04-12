@@ -1,11 +1,4 @@
-import {
-  AfterViewInit,
-  Component,
-  ElementRef,
-  OnChanges,
-  OnInit,
-  ViewChild,
-} from "@angular/core";
+import { Component, ElementRef, OnInit, ViewChild } from "@angular/core";
 
 @Component({
   selector: "app-exercice2",
